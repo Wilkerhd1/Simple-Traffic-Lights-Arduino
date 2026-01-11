@@ -1,5 +1,5 @@
 
-# Simple traffic light system using LEDs and Arduino
+# Simple traffic lights system using LEDs and Arduino
 
 ### What is this?
 This is an Arduino project for beginners to start their studies.
